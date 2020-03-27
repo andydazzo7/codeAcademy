@@ -1,0 +1,45 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+  }
+  body{
+      background-image:url(https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?ixlib=rb-1.2.1&w=1000&q=80);
+  }
+  
+  h1 {
+    font-family:  Helvetica;
+    font-size: 100px;
+    font-weight:bold;
+    color:khaki;
+    text-align:center;
+    background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+  }
+  h2.brush{
+      font-family: Helvetica;
+      font-size:32px;
+      font-weight: bold;
+      color:white;
+      background-color: mediumspringgreen;
+  }
+  h2.frame{
+    font-family: Helvetica;
+    font-size:32px;
+    font-weight: bold;
+    color:white;
+    background-color: lightcoral;
+  }
+  h2.paint{
+    font-family: Helvetica;
+    font-size:32px;
+    font-weight: bold;
+    color:white;
+    background-color: skyblue;
+  }
+  p, 
+  li {
+    font-size: 18px;
+  }
+  
+  
+  a {
+    text-decoration: none;
+  }
